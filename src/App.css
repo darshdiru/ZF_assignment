@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
